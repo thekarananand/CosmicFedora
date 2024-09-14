@@ -10,7 +10,7 @@ sudo dnf install -y https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-non
 
 
 # Install DNF Packages
-sudo dnf install -y intel-media-drivers
+sudo dnf install -y intel-media-driver
 sudo dnf install -y jetbrains-mono-fonts
 sudo dnf install -y powerline-fonts
 sudo dnf install -y git
